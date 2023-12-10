@@ -1,2 +1,2 @@
 # Python-Basics-Practice-Notebooks
-A couple of notebooks I developed, Both containing information on the basics of python and a few activities putting the knowledge to use.
+Some notebooks I developed both during my studies and freetime. Containing information on the basics of python and a few activities putting the knowledge to use.
